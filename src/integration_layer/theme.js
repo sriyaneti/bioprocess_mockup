@@ -1,0 +1,20 @@
+// src/integration_layer/theme.js — shared palette for the integration layer.
+export const C = {
+  primary: "#0B6E5F",
+  pweak:   "#E6F2EF",
+  green:   "#1E9E6A",
+  amber:   "#C98A12",
+  red:     "#C8453B",
+  gold:    "#B5862B",
+  goldWeak:"#F4EBD3",
+  gray:    "#9AA6AF",
+  ink:     "#1B2229",
+  muted:   "#69727C",
+  line:    "#E5E8EC",
+  line2:   "#D6DBE0",
+  bg:      "#F6F7F9",
+  surface: "#FFFFFF",
+  side:    "#10171C",
+  side2:   "#1A232B",
+  stext:   "#9FAAB4",
+};
