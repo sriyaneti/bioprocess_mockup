@@ -5,4 +5,4 @@ A clickable prototype of an integration/analytics layer for bioprocess data for 
 ## Notes
 - View simulated data at 'src/data.js'
 - This version prioritizes orchestration and analytics. It does not focus on data collection (standardizing instrument ingestion with OPC UA/SiLA) or data storage (graph DB).
-- old_mockup folder is the nested folder that focuses on the entire integration layer evenly. 
+- old_mockup folder is the nested folder that focuses on each feature of the entire integration layer separately and evenly. 
