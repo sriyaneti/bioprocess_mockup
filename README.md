@@ -1,6 +1,6 @@
 # Bioprocess Data Integration Layer — Mockup
 
-A clickable prototype of an integration/analytics layer for bioprocess data for a specific lab-grown dairy company. Considers the entire precision fermentation process from strain engineering → fermentation → downstream → functionality → application testing. All data is simulated (12 strains, 36 batches). 
+A clickable prototype of an integration/analytics layer for bioprocess data for a specific lab-grown dairy company. Considers the entire precision fermentation process (from strain engineering → fermentation → downstream → functionality → application testing). All data is simulated (12 strains, 36 batches). 
 
 ## Notes
 - View simulated data at 'src/data.js'
